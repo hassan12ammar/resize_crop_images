@@ -1,6 +1,6 @@
 # resize & crop images
 
-File named "out" created the first time you run the script in the diractory of the programme to store the output 
+File named "output" created the first time you run the script in the diractory of the programme to store the output 
 
 give path or It'll use folder namde input in the same diractory
 
